@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Mathilda blog
 
 You can use the [editor on GitHub](https://github.com/Mathilda-hu/Mathilda-hu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,10 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
+# 大家好我是胡玉婷
+## 这是我的第一个个人博客
+### thanks
 - Bulleted
 - List
 
